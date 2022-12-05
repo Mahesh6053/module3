@@ -15,7 +15,7 @@ public class AccessSpecifiers {
 	// with in the class only
 
 	private static void detail() {
-		System.out.println("enter year-2022");
+		System.out.println("enter year-20222");
 	}
 
 	
