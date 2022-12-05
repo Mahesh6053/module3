@@ -9,7 +9,7 @@ public class AccessSpecifiers {
 	// anywhere in the package
 
 	public void details() {
-		System.out.println("enter name");
+		System.out.println("enter name1");
 	}
 
 	// with in the class only
